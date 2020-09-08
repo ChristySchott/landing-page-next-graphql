@@ -1,8 +1,17 @@
-# Simple NextJS Quick Start
+<img alt="GoStack" src="https://miro.medium.com/max/6000/1*ZQywXQQMs32Dray68Sjptg.jpeg" />
 
-A simple project starter to work with React, NextJS and Styled Components
+<h1 align="center">
+ :computer: Next and GraphQL - Landing Page :computer:
+</h1>
 
-You can see the example in [https://nextjs-quickstart.now.sh/](https://nextjs-quickstart.now.sh/)
+<p align="center">
+<a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#📦-install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#zap-learning">Learnings</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
 ### 📦 Install
 
